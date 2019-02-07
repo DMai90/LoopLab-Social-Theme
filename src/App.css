@@ -2,3 +2,18 @@ body {
   background: #333;
   color: #fff;
 }
+
+#home-section .home-inner {
+  padding-top: 150px;
+}
+
+#home-section .fas {
+  color: #008ed6;
+  background: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#home-section .card-form {
+  opacity: 0.8;
+}
